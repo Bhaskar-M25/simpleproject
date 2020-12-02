@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53766" started-at="2020-12-02T11:50:19 IST" finished-at="2020-12-02T11:51:13 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53766" started-at="2020-12-02T11:50:19 IST" finished-at="2020-12-02T11:51:13 IST">
+      <class name="loginpage.TestScript">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:loginpage.TestScript@1e3c938]" name="Setup" is-config="true" duration-ms="46608" started-at="2020-12-02T11:50:19 IST" finished-at="2020-12-02T11:51:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="ValidateCreate()[pri:0, instance:loginpage.TestScript@1e3c938]" name="ValidateCreate" duration-ms="2515" started-at="2020-12-02T11:51:06 IST" finished-at="2020-12-02T11:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreate -->
+        <test-method status="PASS" signature="ValidateEmail()[pri:0, instance:loginpage.TestScript@1e3c938]" name="ValidateEmail" duration-ms="973" started-at="2020-12-02T11:51:09 IST" finished-at="2020-12-02T11:51:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateEmail -->
+        <test-method status="PASS" signature="ValidatePass()[pri:0, instance:loginpage.TestScript@1e3c938]" name="ValidatePass" duration-ms="840" started-at="2020-12-02T11:51:10 IST" finished-at="2020-12-02T11:51:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatePass -->
+        <test-method status="PASS" signature="ValidateTitle()[pri:0, instance:loginpage.TestScript@1e3c938]" name="ValidateTitle" duration-ms="130" started-at="2020-12-02T11:51:11 IST" finished-at="2020-12-02T11:51:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method status="PASS" signature="ValidateUrl()[pri:0, instance:loginpage.TestScript@1e3c938]" name="ValidateUrl" duration-ms="54" started-at="2020-12-02T11:51:11 IST" finished-at="2020-12-02T11:51:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateUrl -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:loginpage.TestScript@1e3c938]" name="teardown" is-config="true" duration-ms="2499" started-at="2020-12-02T11:51:11 IST" finished-at="2020-12-02T11:51:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- loginpage.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
